@@ -2,8 +2,6 @@
 
 # CIRO — Crisis Intelligence & Response Orchestrator
 
-> Built for Google AI Seekho Hackathon 2026 — Challenge 3
-
 CIRO is an autonomous agentic AI system that detects urban crises 
 in real time, reasons through multi-source signals, allocates 
 emergency resources autonomously, and simulates coordinated 
