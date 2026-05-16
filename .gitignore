@@ -1,0 +1,8 @@
+.env
+*.json
+!pubspec.json
+__pycache__/
+.venv/
+node_modules/
+.DS_Store
+Thumbs.db
